@@ -1,12 +1,15 @@
-# Nepal Currency Converter
 
-A beautiful, fast, and easy currency converter specially designed for Nepali users. Instantly convert between USD, NPR, INR, and more — free, simple, always updated, and with stunning interactive UI.
+
+## Nepal Currency Converter 💱
+
+A fast, beautiful, and privacy-friendly currency converter built for users who wish to use it. Instantly convert between major currencies (USD, NPR, INR, and more) with smart defaults and a stunning, interactive user interface.
 
 
 ## 📷 Screenshot
 
 
-<img src="image/image.png" alt="App Demo" width="500" style="max-width:100%;height:auto;">
+![App Demo](image/image.png)
+
 
 
 
