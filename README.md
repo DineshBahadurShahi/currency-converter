@@ -1,4 +1,4 @@
-# <img width="283" height="345" alt="image" src="https://github.com/user-attachments/assets/f58107aa-d213-4cbc-a336-ce5c8754890b" />
+
 
 ## Nepal Currency Converter 💱
 
