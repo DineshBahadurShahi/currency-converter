@@ -5,7 +5,7 @@ A beautiful, fast, and easy currency converter specially designed for Nepali use
 
 ## 📷 Screenshot
 
-![App Demo](screenshots/screenshot.jpg)
+![App Demo](image/image.png)
 
 
 **Live Demo:**  
