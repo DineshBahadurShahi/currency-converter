@@ -2,6 +2,12 @@
 
 A beautiful, fast, and easy currency converter specially designed for Nepali users. Instantly convert between USD, NPR, INR, and more — free, simple, always updated, and with stunning interactive UI.
 
+
+## 📷 Screenshot
+
+![App Demo](screenshots/screenshot.jpg)
+
+
 **Live Demo:**  
 [https://currency-converter-topaz-kappa.vercel.app/](https://currency-converter-topaz-kappa.vercel.app/)
 
